@@ -1,0 +1,6 @@
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalProtoype\CreacionalProtoype\bin\Debug\CreacionalProtoype.exe.config
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalProtoype\CreacionalProtoype\bin\Debug\CreacionalProtoype.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalProtoype\CreacionalProtoype\bin\Debug\CreacionalProtoype.pdb
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalProtoype\CreacionalProtoype\obj\Debug\CreacionalProtoype.csproj.CoreCompileInputs.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalProtoype\CreacionalProtoype\obj\Debug\CreacionalProtoype.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalProtoype\CreacionalProtoype\obj\Debug\CreacionalProtoype.pdb

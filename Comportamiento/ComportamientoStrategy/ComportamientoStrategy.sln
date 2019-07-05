@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComportamientoStrategy", "ComportamientoStrategy\ComportamientoStrategy.csproj", "{1874BD41-A508-4254-8D79-1208BEB98C2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1874BD41-A508-4254-8D79-1208BEB98C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1874BD41-A508-4254-8D79-1208BEB98C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1874BD41-A508-4254-8D79-1208BEB98C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1874BD41-A508-4254-8D79-1208BEB98C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26FE998B-D552-4B82-B559-1897C6F1B50F}
+	EndGlobalSection
+EndGlobal

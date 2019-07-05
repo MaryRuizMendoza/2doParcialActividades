@@ -1,0 +1,7 @@
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalBuilder\CreacionalBuilder\obj\Debug\CreacionalBuilder.csprojAssemblyReference.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalBuilder\CreacionalBuilder\obj\Debug\CreacionalBuilder.csproj.CoreCompileInputs.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalBuilder\CreacionalBuilder\bin\Debug\CreacionalBuilder.exe.config
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalBuilder\CreacionalBuilder\bin\Debug\CreacionalBuilder.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalBuilder\CreacionalBuilder\bin\Debug\CreacionalBuilder.pdb
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalBuilder\CreacionalBuilder\obj\Debug\CreacionalBuilder.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Creacionales\CreacionalBuilder\CreacionalBuilder\obj\Debug\CreacionalBuilder.pdb

@@ -1,0 +1,7 @@
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralProxy\EstructuralProxy\bin\Debug\EstructuralProxy.exe.config
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralProxy\EstructuralProxy\bin\Debug\EstructuralProxy.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralProxy\EstructuralProxy\bin\Debug\EstructuralProxy.pdb
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralProxy\EstructuralProxy\obj\Debug\EstructuralProxy.csprojAssemblyReference.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralProxy\EstructuralProxy\obj\Debug\EstructuralProxy.csproj.CoreCompileInputs.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralProxy\EstructuralProxy\obj\Debug\EstructuralProxy.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralProxy\EstructuralProxy\obj\Debug\EstructuralProxy.pdb

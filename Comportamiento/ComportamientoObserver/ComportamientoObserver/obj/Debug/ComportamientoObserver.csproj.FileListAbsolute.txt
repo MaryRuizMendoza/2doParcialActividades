@@ -1,0 +1,7 @@
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoObserver\ComportamientoObserver\bin\Debug\ComportamientoObserver.exe.config
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoObserver\ComportamientoObserver\bin\Debug\ComportamientoObserver.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoObserver\ComportamientoObserver\bin\Debug\ComportamientoObserver.pdb
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoObserver\ComportamientoObserver\obj\Debug\ComportamientoObserver.csprojAssemblyReference.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoObserver\ComportamientoObserver\obj\Debug\ComportamientoObserver.csproj.CoreCompileInputs.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoObserver\ComportamientoObserver\obj\Debug\ComportamientoObserver.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoObserver\ComportamientoObserver\obj\Debug\ComportamientoObserver.pdb

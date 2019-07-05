@@ -1,0 +1,7 @@
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralFlyweight\EstructuralFlyweight\obj\Debug\EstructuralFlyweight.csproj.CoreCompileInputs.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralFlyweight\EstructuralFlyweight\bin\Debug\EstructuralFlyweight.exe.config
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralFlyweight\EstructuralFlyweight\bin\Debug\EstructuralFlyweight.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralFlyweight\EstructuralFlyweight\bin\Debug\EstructuralFlyweight.pdb
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralFlyweight\EstructuralFlyweight\obj\Debug\EstructuralFlyweight.csprojAssemblyReference.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralFlyweight\EstructuralFlyweight\obj\Debug\EstructuralFlyweight.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralFlyweight\EstructuralFlyweight\obj\Debug\EstructuralFlyweight.pdb

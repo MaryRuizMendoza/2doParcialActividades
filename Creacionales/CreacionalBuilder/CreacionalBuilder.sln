@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreacionalBuilder", "CreacionalBuilder\CreacionalBuilder.csproj", "{BBA0E32B-B953-4D5D-BD88-0856F243D9DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA0E32B-B953-4D5D-BD88-0856F243D9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA0E32B-B953-4D5D-BD88-0856F243D9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA0E32B-B953-4D5D-BD88-0856F243D9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA0E32B-B953-4D5D-BD88-0856F243D9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5DEF40-FDBF-452B-9DAA-AD02E176DDEE}
+	EndGlobalSection
+EndGlobal

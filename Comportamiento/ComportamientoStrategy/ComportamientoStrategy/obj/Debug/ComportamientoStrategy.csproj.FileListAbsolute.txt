@@ -1,0 +1,7 @@
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoStrategy\ComportamientoStrategy\obj\Debug\ComportamientoStrategy.csprojAssemblyReference.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoStrategy\ComportamientoStrategy\obj\Debug\ComportamientoStrategy.csproj.CoreCompileInputs.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoStrategy\ComportamientoStrategy\bin\Debug\ComportamientoStrategy.exe.config
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoStrategy\ComportamientoStrategy\bin\Debug\ComportamientoStrategy.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoStrategy\ComportamientoStrategy\bin\Debug\ComportamientoStrategy.pdb
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoStrategy\ComportamientoStrategy\obj\Debug\ComportamientoStrategy.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoStrategy\ComportamientoStrategy\obj\Debug\ComportamientoStrategy.pdb

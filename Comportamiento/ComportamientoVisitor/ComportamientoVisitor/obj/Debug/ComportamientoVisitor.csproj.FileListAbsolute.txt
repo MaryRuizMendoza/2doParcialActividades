@@ -1,0 +1,7 @@
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoVisitor\ComportamientoVisitor\obj\Debug\ComportamientoVisitor.csprojAssemblyReference.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoVisitor\ComportamientoVisitor\obj\Debug\ComportamientoVisitor.csproj.CoreCompileInputs.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoVisitor\ComportamientoVisitor\bin\Debug\ComportamientoVisitor.exe.config
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoVisitor\ComportamientoVisitor\bin\Debug\ComportamientoVisitor.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoVisitor\ComportamientoVisitor\bin\Debug\ComportamientoVisitor.pdb
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoVisitor\ComportamientoVisitor\obj\Debug\ComportamientoVisitor.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Comportamiento\ComportamientoVisitor\ComportamientoVisitor\obj\Debug\ComportamientoVisitor.pdb

@@ -1,0 +1,7 @@
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralBridge\EstructuralBridge\obj\Debug\EstructuralBridge.csproj.CoreCompileInputs.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralBridge\EstructuralBridge\bin\Debug\EstructuralBridge.exe.config
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralBridge\EstructuralBridge\bin\Debug\EstructuralBridge.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralBridge\EstructuralBridge\bin\Debug\EstructuralBridge.pdb
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralBridge\EstructuralBridge\obj\Debug\EstructuralBridge.csprojAssemblyReference.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralBridge\EstructuralBridge\obj\Debug\EstructuralBridge.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial2Aplicaiones\ActVS-PatronesDiseño\Estructurales\EstructuralBridge\EstructuralBridge\obj\Debug\EstructuralBridge.pdb
